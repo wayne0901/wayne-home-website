@@ -1,0 +1,9 @@
+.td-box{
+    width: 200px;
+    height: 200px;
+    filter: drop-shadow(0 0 5px rgb(161, 149, 149)) drop-shadow(0 0
+    10px rgb(199, 178, 178)) drop-shadow(0 0 20px rgb(179, 154, 154));
+}
+.animation{
+
+}
